@@ -11,4 +11,8 @@
 # Second Week
 
 - #### [[Social Coding Principles]]
+- #### [[Git Repository Guidelines]]
+- #### [[Working in Small Batches]]
+- #### [[Minimum Viable Product (MVP)]]
+- #### [[Test Driven Development]]
 - 

@@ -14,5 +14,7 @@
 - #### [[Git Repository Guidelines]]
 - #### [[Working in Small Batches]]
 - #### [[Minimum Viable Product (MVP)]]
-- #### [[Test Driven Development]]
+- #### [[Test Driven Development (TDD)]]
+- #### [[Behavior Driven Development (BDD)]]
+- #### [[Cloud Native Microservices]]
 - 

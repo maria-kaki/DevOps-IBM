@@ -6,7 +6,7 @@
 - #### [[Leading Up to DevOps]]
 - #### [[XP, Agile, and Beyond]]
 - #### [[Brief History of DevOps]]
-- #### [[Summary and Highlights]]
+- #### [[Summary and Highlights - 1]]
 
 # Second Week
 
@@ -17,4 +17,6 @@
 - #### [[Test Driven Development (TDD)]]
 - #### [[Behavior Driven Development (BDD)]]
 - #### [[Cloud Native Microservices]]
+- #### [[Designing for Failure]]
+- #### [[Summary and Highlights - 2]]
 - 

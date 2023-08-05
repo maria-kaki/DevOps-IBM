@@ -19,4 +19,6 @@
 - #### [[Cloud Native Microservices]]
 - #### [[Designing for Failure]]
 - #### [[Summary and Highlights - 2]]
+# Third Week
+- ###### [[Taylorism and Working in Silos]]
 - 
